@@ -8,7 +8,7 @@
       <link href="/2025/03/19/222/"/>
       <url>/2025/03/19/222/</url>
       
-        <content type="html"><![CDATA[<hr><p>title：第一篇博客<br>date：2025-3-19<br>tags：</p><ul><li>Fuzz</li><li>afl<br>categories：</li><li>Fuzz</li><li>afl<br>keyword：</li><li>Fuzz</li><li>afl</li><li>实验复现</li></ul><hr><h2 id="程序插桩"><a href="#程序插桩" class="headerlink" title="程序插桩"></a>程序插桩</h2><p>定义：往被测试程序中插入测试代码以达到测试目的的方法，插入的测试代码被称为探针。</p><p>方法：（测试代码插入的时间）</p><ol><li>目标代码插桩</li><li>源代码插桩</li></ol><h3 id="目标代码插桩（动态程序分析方法）"><a href="#目标代码插桩（动态程序分析方法）" class="headerlink" title="目标代码插桩（动态程序分析方法）"></a>目标代码插桩（动态程序分析方法）</h3><p>定义：向目标代码（二进制）插入测试代码。</p><p>功能：监控程序运行时的内存监控、指令追踪、错误检测等。</p><p>特点：不需要代码重新编译或者链接程序，并且目标代码的格式和具体的编程语言无关，主要和操作系统相关。</p><h4 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h4><p>在程序运行平台和底层操作系统之间建立中间层</p>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="title：第一篇博客"><a href="#title：第一篇博客" class="headerlink" title="title：第一篇博客"></a>title：第一篇博客</h2><h2 id="程序插桩"><a href="#程序插桩" class="headerlink" title="程序插桩"></a>程序插桩</h2><p>定义：往被测试程序中插入测试代码以达到测试目的的方法，插入的测试代码被称为探针。</p><p>方法：（测试代码插入的时间）</p><ol><li>目标代码插桩</li><li>源代码插桩</li></ol><h3 id="目标代码插桩（动态程序分析方法）"><a href="#目标代码插桩（动态程序分析方法）" class="headerlink" title="目标代码插桩（动态程序分析方法）"></a>目标代码插桩（动态程序分析方法）</h3><p>定义：向目标代码（二进制）插入测试代码。</p><p>功能：监控程序运行时的内存监控、指令追踪、错误检测等。</p><p>特点：不需要代码重新编译或者链接程序，并且目标代码的格式和具体的编程语言无关，主要和操作系统相关。</p><h4 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h4><p>在程序运行平台和底层操作系统之间建立中间层</p>]]></content>
       
       
       
